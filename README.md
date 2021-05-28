@@ -1,6 +1,6 @@
 # Mytrackt
 
-[![build status](https://github.com/heathdj/mytrackt-web/actions/workflows/main.yaml/badge.svg)](https://github.com/heathdj/mytrackt-web/actions)
+[![build status](https://github.com/heathdj/mytrackt-web/actions/workflows/main.yml/badge.svg)](https://github.com/heathdj/mytrackt-web/actions)
 [![Coverage Status](https://coveralls.io/repos/github/ntkme/github-buttons/badge.svg?branch=main)](https://coveralls.io/github/ntkme/github-buttons?branch=main)
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/github-buttons)
 
